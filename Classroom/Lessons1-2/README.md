@@ -236,3 +236,29 @@ a > b && a > c //a > b и a > c
 a > b || a > c //a > b или a > c
 !(a < b) // НЕ (a < b), это то же самое, что a >= b
 ```
+**Пример:**
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    setlocale(0, "russian");
+    
+    cout<<"Который час?"<<endl;
+    
+    int time;
+    cin>>time;
+    
+    if (time > 6 && time < 21)
+    {
+        cout<<"Макдональдс работает, приятного аппетита!";
+    }
+    else
+    {
+        cout<<"Макдональдс закрыт :(";
+    }
+    
+    return 0;
+}
+```
