@@ -9,6 +9,14 @@
   - Структура программы на С++
   - Ввод и вывод на С++
   - Условный оператор
+  - Генерация случайных чисел
+
+### Софт:
+Подойдет любое IDE для C++ с компилятором. Варианты:
+ - [Microsoft Visual Express Desktop](https://go.microsoft.com/fwlink/?LinkId=691984&clcid=0x419) (красивое, но ставится долго)
+ - [Codeblocks+MinGW](https://sourceforge.net/projects/codeblocks/files/Binaries/16.01/Windows/codeblocks-16.01mingw-setup.exe/download)
+ - Xcode на Mac
+ - CLion (платно)
 
 ### Литература
   - С. Прата - Язык С++: Лекции и упражнения, главы 1 и 2
