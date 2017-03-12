@@ -29,14 +29,26 @@ const int N = 100;
 int numbers[N];
 
 //сначала вводим массив с клавиатуры
-for (int i = 0; i < N; ++i)
+int i = 0;
+while ( i < N)
+{
   cin >> numbers[i];
+  i++;
+}
 
 //производим замену
-for (int i = 0; i < N-2; ++i)
+i = 0;
+while (i < N-2)
+{
   numbers[i] = numbers[i+1] + numbers[i+2]; //98, т.к. без двух последних
+  i++;
+}
 
 //красиво выводим обратно
-for (int i = 0; i < N; ++i ) 
+i = 0;
+while (i < N) 
+{
   cout << numbers[i] << " ";
+  i++;
+}
 ```
