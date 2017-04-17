@@ -69,3 +69,13 @@
   - [Buble Sort](http://algolist.manual.ru/sort/bubble_sort.php)
   - [Select Sort](http://algolist.manual.ru/sort/select_sort.php)
   - [Сортировка подсчетом](https://neerc.ifmo.ru/wiki/index.php?title=%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D0%BE%D0%B4%D1%81%D1%87%D0%B5%D1%82%D0%BE%D0%BC)
+  
+## Занятия 15-16: Строки в стиле си
+
+## Занятия 17-18: Работа с файлами
+
+## Занятия 19-20: Рекурсия
+
+## Занятия 21-22: Матрицы и многомерные массивы
+
+## Занятия 21-22: Итоговый зачет
